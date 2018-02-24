@@ -1,2 +1,3 @@
-# config
-A golang package helps to access configuration stored as JSON.
+# Config
+
+Package **config** provides convenient methods to access configuration stored as JSON.
